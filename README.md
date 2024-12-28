@@ -1,14 +1,14 @@
 ## 🤖Agents
 
-#### 1. Web Search Agent
-
+#### 1. 🌐Web Search Agent
+ 
 - Purpose: Searches the web for information and includes sources in its responses.
 
 - Model: Utilizes the Groq Llama3 model with tool-use capabilities.
 
 - Tools: Integrates DuckDuckGo for accurate and efficient web searches.
 
-#### 2. Finance AI Agent
+#### 2. 📈Finance AI Agent
 
 - Purpose: Provides financial data analysis and insights.
 
@@ -20,7 +20,7 @@
   - Stock fundamentals
   - Company news
    
-#### 3. YouTube AI Agent
+#### 3. 🎥YouTube AI Agent
 
 - Purpose: Obtains captions of YouTube videos and answers questions based on them.
 
